@@ -14,6 +14,7 @@
 		DD511E2424695CD000386F0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD511E2324695CD000386F0D /* Assets.xcassets */; };
 		DD511E2724695CD000386F0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD511E2524695CD000386F0D /* LaunchScreen.storyboard */; };
 		DD511E2F2469795900386F0D /* StoryOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD511E2E2469795900386F0D /* StoryOne.swift */; };
+		DD511E3124697A8100386F0D /* StroryTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD511E3024697A8100386F0D /* StroryTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DD511E2624695CD000386F0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD511E2824695CD000386F0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD511E2E2469795900386F0D /* StoryOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryOne.swift; sourceTree = "<group>"; };
+		DD511E3024697A8100386F0D /* StroryTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StroryTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				DD511E2524695CD000386F0D /* LaunchScreen.storyboard */,
 				DD511E2824695CD000386F0D /* Info.plist */,
 				DD511E2E2469795900386F0D /* StoryOne.swift */,
+				DD511E3024697A8100386F0D /* StroryTwo.swift */,
 			);
 			path = GitRepositoryPractice1;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD511E2F2469795900386F0D /* StoryOne.swift in Sources */,
+				DD511E3124697A8100386F0D /* StroryTwo.swift in Sources */,
 				DD511E1F24695CC600386F0D /* ViewController.swift in Sources */,
 				DD511E1B24695CC600386F0D /* AppDelegate.swift in Sources */,
 				DD511E1D24695CC600386F0D /* SceneDelegate.swift in Sources */,
